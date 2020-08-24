@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:padding="8dp">
+        <TextView
+            android:id="@+id/clip_text"
+            android:layout_toStartOf="@id/clip_icon"
+            android:layout_alignParentStart="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Copied text here..."
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            />
+        <ImageView
+            android:id="@+id/clip_icon"
+            android:layout_alignParentEnd="true"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/ic_clip"
+            />
+
+        <TextView
+            android:id="@+id/clip_time"
+            android:layout_below="@+id/clip_text"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:text="09:41pmn, fri 27/12/2019"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            />
+        <LinearLayout
+            android:background="#CCC"
+            android:layout_below="@+id/clip_time"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"/>
+</RelativeLayout>
