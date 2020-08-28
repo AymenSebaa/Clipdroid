@@ -37,9 +37,9 @@ before using the app for the first time make sure to **ennable** some **permissi
           - **Move all** clipboards in *Trash list* to **Trash list**.
           - **Delete all** clipboards in *Trash list* **permanently**.    
      - long press on **Screen icon** options:
-          - right shortcut buttons change app hight to 25%, 50% or 75% screen hight. 
-          - left slider to adjust app hight to user preference.
-          - bottom button to hide app. 
+          - **Right buttons** labeled [25%, 50% or 75%] are **shortcuts** to change **app hight**. 
+          - **Left slider** to **precisely** adjust **app hight**.
+          - **Bottom button** to hide app (and show **clip icon**). 
 ## versions
    ### - 1.2.0
    - initial. 
