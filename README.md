@@ -20,7 +20,7 @@ before using the app for the first time make sure to **ennable** some **permissi
   **Note:** you must first press on the text input so the app knows where to past the clipboard.
 - Move one or all *clipboards* to **trash** or **favorites** list.
 - Adjust **panel** height.
-- long press on **header icons** for more option
+- **long press** on **header icons** for more option
      - long press on **Trash icon** options:
           - **Move all** clipboards in *Trash list* to **Main list**.
           - **Move all** clipboards in *Trash list* to **Favorits list**.
