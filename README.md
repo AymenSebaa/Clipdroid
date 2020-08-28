@@ -12,9 +12,9 @@ before using the app for the first time make sure to **ennable** some **permissi
 - **To hight** the app, long press on **screen icon** (a popup will show), then press on **hide panel button**.
 - **To exit** from the app, long press on the clip shortcut and confirm the popup message. (make sure the app is hidden first by the step above).
 - **copy any text** from anywhere in your phone, then notice the **clip icone rotating** indicating that the text is added to app **Maint List**.
-- **swipe** the clipboard item to the **right** to add it to **favorits lit**.
-- **swipe** the clipboard item to the **left** to move it to **trash list**.
-- access all lists by pressing the **list icons** on top of the app (trash, favorits, search, main lists).
+- **To add** clipboard to **Favorits list**, **swipe** the clipboard item to the **right**
+- **To add** clipboard to **Trash list**, **swipe** the clipboard item to the **left**.
+- **To change** lists press on **icons on top** of the app (Trash, Favorits, Search, Main).
 
 ## Features
 - Copied text is saved in a *list* of **clipboard** called *Main list*.
