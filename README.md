@@ -8,7 +8,9 @@ before using the app for the first time make sure to **ennable** some **permissi
   [Settings > Accessibility > Clipdroid > turn on ].
 
 ## Usage
-- press on clip icon button situated on the right side of the screen to show the ClipDroid app.
+- **To show** the main app, press on clip icon button situated on the right side of the screen.
+- **To hight** the main app, long press on **screen icon** (a popup will show) then press on **hide panel button**.
+- **To exit** from the app, long press on the clip shortcut and confirm the popup message. (make sure the app is hidden by the step above).
 - **copy any text** from anywhere in your phone, then notice the **clip icone rotating** indicating that the text is added to app **Maint List**.
 - **swipe** the clipboard item to the **right** to add it to **favorits lit**.
 - **swipe** the clipboard item to the **left** to move it to **trash list**.
@@ -38,5 +40,5 @@ before using the app for the first time make sure to **ennable** some **permissi
           - left slider to adjust app hight to user preference.
           - bottom button to hide app. 
 ## versions
-### - 1.2.0
- - initial. 
+   ### - 1.2.0
+   - initial. 
