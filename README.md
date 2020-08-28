@@ -14,7 +14,7 @@ before using the app for the first time make sure to **ennable** some **permissi
 - **copy any text** from anywhere in your phone, then notice the **clip icone rotating** indicating that the text is added to app **Maint List**.
 - **To add** clipboard to **Favorits list**, **swipe** the clipboard item to the **right**
 - **To add** clipboard to **Trash list**, **swipe** the clipboard item to the **left**.
-- **To change** lists press on **icons on top** of the app (Trash, Favorits, Search, Main).
+- **To switch** between lists press on **icons on top** of the app (Trash, Favorits, Search, Main).
 
 ## Features
 - Copied text is saved in a *list* of **clipboard** called *Main list*.
