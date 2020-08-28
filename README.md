@@ -3,8 +3,8 @@ An Android app for fast and convenient clipboards storing (copied texts) and pas
 
 ## Permission
 before using the app for the first time make sure to **ennable** some **permissions**
-- turn on pop-up bubble (so the app lets use popups like messenger bubble).
-- turn on ClipDroid Accessibility (so the app lets you past clipboards) 
+- **turn on** pop-up bubble (so the app lets use popups like messenger bubble).
+- **turn on** ClipDroid Accessibility (so the app lets you past clipboards) 
   [Settings > Accessibility > Clipdroid > turn on ].
 
 ## Usage
