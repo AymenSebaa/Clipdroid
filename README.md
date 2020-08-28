@@ -9,9 +9,9 @@ before using the app for the first time make sure to **ennable** some **permissi
 
 ## Usage
 - press on clip icon button situated on the right side of the screen to toggle the main panel (show/hide).
-- copy a text from anywhere in your phone, then notice the clip icone rotating indicating that the text is added to clipboard list.
+- **copy any text** from anywhere in your phone, then notice the **clip icone rotating** indicating that the text is added to app **Maint List**.
 - **swipe** the clipboard item to the **right** to add it to **favorits lit**.
-- **swipe** the clipboard item to the **left** to move it to **trash list*.
+- **swipe** the clipboard item to the **left** to move it to **trash list**.
 - access all lists by pressing the **list icons** on top of the app (trash, favorits, search, main lists).
 
 ## Features
