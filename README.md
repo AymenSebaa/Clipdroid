@@ -27,9 +27,9 @@ before using the app for the first time make sure to **ennable** some **permissi
        - **Delete all** clipboards in *Trash list* **permanently**.
      - long press on **Favorits icon**:
        - **Move all** clipboards in *Trash list* to **Main list**.
-       - **Move all** clipboards in *Trash list* to **Favorits list**.
+       - **Move all** clipboards in *Trash list* to **Trash list**.
        - **Delete all** clipboards in *Trash list* **permanently**.
      - long press on **Main icon**:
-       - **Move all** clipboards in *Trash list* to **Main list**.
        - **Move all** clipboards in *Trash list* to **Favorits list**.
+       - **Move all** clipboards in *Trash list* to **Trash list**.
        - **Delete all** clipboards in *Trash list* **permanently**.     
