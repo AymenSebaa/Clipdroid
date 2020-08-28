@@ -1,5 +1,5 @@
 ## Clipdroid
-Android app for storing a list of clipboards.
+An Android app for fast and convenient clipboards storing (copied texts) and pasting them on any Text input.
 
 ## Permission
 before using the app for the first time make sure to **ennable** some **permissions**
