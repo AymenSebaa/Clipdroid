@@ -20,20 +20,20 @@ before using the app for the first time make sure to **ennable** some **permissi
 - Move one or all *clipboards* to **trash** or **favorites** list.
 - Adjust **panel** height.
 - long press on **header icons** for more option
-   - long press on **Trash icon** options:
-    - **Move all** clipboards in *Trash list* to **Main list**.
-    - **Move all** clipboards in *Trash list* to **Favorits list**.
-    - **Delete all** clipboards in *Trash list* **permanently**.
-   - long press on **Favorits icon** options:
-    - **Move all** clipboards in *Trash list* to **Main list**.
-    - **Move all** clipboards in *Trash list* to **Trash list**.
-     - **Delete all** clipboards in *Trash list* **permanently**.
-   - long press on **Main icon** options:
-    - **Move all** clipboards in *Trash list* to **Favorits list**.
-    - **Move all** clipboards in *Trash list* to **Trash list**.
-    - **Delete all** clipboards in *Trash list* **permanently**.   
-   - long press on **Main icon** options:
+     - long press on **Trash icon** options:
+       - **Move all** clipboards in *Trash list* to **Main list**.
+       - **Move all** clipboards in *Trash list* to **Favorits list**.
+       - **Delete all** clipboards in *Trash list* **permanently**.
+    - long press on **Favorits icon** options:
+      - **Move all** clipboards in *Trash list* to **Main list**.
+      - **Move all** clipboards in *Trash list* to **Trash list**.
+      - **Delete all** clipboards in *Trash list* **permanently**.
+    - long press on **Main icon** options:
+      - **Move all** clipboards in *Trash list* to **Favorits list**.
+      - **Move all** clipboards in *Trash list* to **Trash list**.
+      - **Delete all** clipboards in *Trash list* **permanently**.    
+    - long press on **Main icon** options:
 
 ## versions
 ### - 1.2.0
-  - insitial. 
+ - initial. 
