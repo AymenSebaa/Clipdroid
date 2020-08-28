@@ -16,7 +16,8 @@ before using the app for the first time make sure to **ennable** some **permissi
 
 ## Features
 - Copied text is saved in a *list* of **clipboard** called *Main list*.
-- Paste *clipboard* on *input* such as text fields.
+- **clipboards** can be easily pasted on any *text input* by pressing on the clipboard 
+  **Note:** you must first press on the text input so the app knows where to past the clipboard.
 - Move one or all *clipboards* to **trash** or **favorites** list.
 - Adjust **panel** height.
 - long press on **header icons** for more option
