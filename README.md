@@ -21,19 +21,21 @@ before using the app for the first time make sure to **ennable** some **permissi
 - Adjust **panel** height.
 - long press on **header icons** for more option
      - long press on **Trash icon** options:
-       - **Move all** clipboards in *Trash list* to **Main list**.
-       - **Move all** clipboards in *Trash list* to **Favorits list**.
-       - **Delete all** clipboards in *Trash list* **permanently**.
-    - long press on **Favorits icon** options:
-      - **Move all** clipboards in *Trash list* to **Main list**.
-      - **Move all** clipboards in *Trash list* to **Trash list**.
-      - **Delete all** clipboards in *Trash list* **permanently**.
-    - long press on **Main icon** options:
-      - **Move all** clipboards in *Trash list* to **Favorits list**.
-      - **Move all** clipboards in *Trash list* to **Trash list**.
-      - **Delete all** clipboards in *Trash list* **permanently**.    
-    - long press on **Main icon** options:
-
+          - **Move all** clipboards in *Trash list* to **Main list**.
+          - **Move all** clipboards in *Trash list* to **Favorits list**.
+          - **Delete all** clipboards in *Trash list* **permanently**.
+     - long press on **Favorits icon** options:
+          - **Move all** clipboards in *Trash list* to **Main list**.
+          - **Move all** clipboards in *Trash list* to **Trash list**.
+          - **Delete all** clipboards in *Trash list* **permanently**.
+     - long press on **Main icon** options:
+          - **Move all** clipboards in *Trash list* to **Favorits list**.
+          - **Move all** clipboards in *Trash list* to **Trash list**.
+          - **Delete all** clipboards in *Trash list* **permanently**.    
+     - long press on **Screen icon** options:
+          - right shortcut buttons change app hight to 25%, 50% or 75% screen hight. 
+          - left slider to adjust app hight to user preference.
+          - bottom button to hide app. 
 ## versions
 ### - 1.2.0
  - initial. 
